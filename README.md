@@ -38,6 +38,7 @@ Key Questions to Answer:
 3.What is the cumulative occupancy trend and occupancy growth (MoM and WoW)?
 
 4.How does occupancy correlate with revenue and RevPAR?
+
 KPIs and Metrics:
 
 Occupancy Rate
@@ -53,6 +54,7 @@ Key Questions to Answer:
 3.What is the average length of stay (ALOS) for each hotel and room type?
 
 4.What is the room revenue trend (including running total and MoM/WoW growth)?
+
 KPIs and Metrics:
 
 Average Length of Stay (ALOS)
@@ -81,6 +83,9 @@ Cancellation Growth (WoW)
 Conclusion & Dashboard Flow:
 
 Page 1: Financial Overview – Gives stakeholders a snapshot of the financial performance, including revenue, growth metrics, ADR, and RevPAR.
+
 Page 2: Occupancy & Capacity – Provides insights into occupancy trends, helping understand hotel capacity utilization and its impact on revenue.
+
 Page 3: Room Category Performance & Bookings – Focuses on room-level insights, including revenue contribution, booking patterns, and length of stay.
+
 Page 4: Cancellations & Lost Revenue – Examines cancellation trends and their financial impact, helping identify areas to reduce cancellations.
