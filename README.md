@@ -20,12 +20,12 @@ Key Questions to Answer:
 
 KPIs and Metrics:
 
-Total Revenue
-Cumulative Revenue
-Month-over-Month (MoM) and Week-over-Week (WoW) Growth
-Moving Average of Revenue
-Average Daily Rate (ADR)
-Revenue per Available Room (RevPAR)
+a)Total Revenue
+b)Cumulative Revenue
+c)Month-over-Month (MoM) and Week-over-Week (WoW) Growth
+d)Moving Average of Revenue
+e)Average Daily Rate (ADR)
+f)Revenue per Available Room (RevPAR)
  
 
 Page 2: Occupancy & Capacity Analysis
@@ -41,7 +41,7 @@ Key Questions to Answer:
 
 KPIs and Metrics:
 
-Occupancy Rate
+a)Occupancy Rate
  
 
 Page 3: Room Category Performance & Booking Insights
@@ -57,8 +57,8 @@ Key Questions to Answer:
 
 KPIs and Metrics:
 
-Average Length of Stay (ALOS)
-Booking Lead Time: Average time between booking and check-in.
+a)Average Length of Stay (ALOS)
+b)Booking Lead Time: Average time between booking and check-in.
  
 
 Page 4: Cancellations & Lost Revenue Analysis
@@ -74,10 +74,10 @@ Key Questions to Answer:
 
 KPIs and Metrics:
 
-Cancellation Rate:
-Cumulative Cancellations
-Lost Revenue due to Cancellations:
-Cancellation Growth (WoW)
+a)Cancellation Rate:
+b)Cumulative Cancellations
+c)Lost Revenue due to Cancellations:
+d)Cancellation Growth (WoW)
  
 
 Conclusion & Dashboard Flow:
